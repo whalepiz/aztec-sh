@@ -153,7 +153,7 @@ check_node() {
 }
 
 # Wait for node to be reachable (up to 10 minutes)
-MAX_WAIT=1200
+MAX_WAIT=600
 WAIT_INTERVAL=10
 ELAPSED=0
 
